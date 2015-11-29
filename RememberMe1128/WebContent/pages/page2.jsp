@@ -12,7 +12,7 @@
 	<div id="container">
 	
 		<div class="article_img">
-              <img class="sliceImg2" src="../images/article02.jpg" />
+              <img class="sliceImg2" src="../images/logo_ch.jpg" />
         </div>
         
         <div class="article_content">

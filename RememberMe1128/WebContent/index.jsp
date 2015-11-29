@@ -10,7 +10,7 @@
 <body>
 
 <div id = "wrap">
-	<div id = "inner-wrapper">
+	<div id = "in"/Users/zhengnaixuan/Desktop/projImg/logo_ch.jpg"ner-wrapper">
 		<jsp:include page="/includes/header.jsp" />
 	
 		<div id="container">
